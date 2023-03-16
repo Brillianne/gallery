@@ -2,8 +2,8 @@ var config = {}
 
 // Update to have your correct username and password
 config.mongoURI = {
-    production: 'mongodb+srv://brillian:lenovo@gallery.wc344.mongodb.net/darkroom?retryWrites=true&w=majority',
-    development: 'mongodb+srv://brillian:lenovo@gallery.wc344.mongodb.net/darkroom-dev?retryWrites=true&w=majority',
-    test: 'mongodb+srv://brillian:lenovo@gallery.wc344.mongodb.net/darkroom-test?retryWrites=true&w=majority',
+    production: 'mongodb+srv://brillianC:lenovo@cluster0.fbyztjh.mongodb.net/?retryWrites=true&w=majority',
+    development: 'mongodb+srv://brillianC:lenovo@cluster0.fbyztjh.mongodb.net/?retryWrites=true&w=majority',
+    test: 'mongodb+srv://brillianC:lenovo@cluster0.fbyztjh.mongodb.net/?retryWrites=true&w=majority',
 }
 module.exports = config;
