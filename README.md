@@ -1,1 +1,1 @@
-#Poll SCM automatic trigger test
+#Poll SCM automatic trigger test 2
